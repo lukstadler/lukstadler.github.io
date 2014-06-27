@@ -12,6 +12,7 @@ description:      'My Blog about Software, Life and other things'
 url:              http://lukstadler.github.io
 baseurl:          '/'
 paginate:         5
+comments:         true
 
 author:
   name:           'Lukas Stadler'
