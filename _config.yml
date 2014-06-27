@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            software...
 tagline:          'things to know, things to see, things to learn'
-description:      'My Blog about Software, Life and other things' target="_blank">@lukstadler</a>.'
+description:      'My Blog about Software, Life and other things'
 url:              http://lukstadler.github.io
 baseurl:          '/'
 paginate:         5
